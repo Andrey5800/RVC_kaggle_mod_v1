@@ -46,5 +46,5 @@ torchcrepe
 fastapi
 pyproject-toml
 fsspec
-gradio
+gradio==3.13.0
 onnxruntime
